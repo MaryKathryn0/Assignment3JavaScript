@@ -34,3 +34,9 @@ criteria ensuring strong security.
                 - special character
     Upon answering the prompts the password will generate and appear in the box. 
 
+## Requirements Met Thru the Following:
+
+## Credits
+
+Edited by Mary Kathryn Holt; https://github.com/MaryKathryn0.
+Content provided by: https://github.com/the-Coding-Boot-Camp-at-UT/UTA-AUS-FSF-FT-09-2020-U-C/
