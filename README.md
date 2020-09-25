@@ -14,11 +14,11 @@ criteria ensuring strong security.
 
 ## Scope of Work
 
-User will click the button to generate a password
+1. User will click the button to generate a password
 
-After clicking the user will be prompted with questions 
-regarding 1. criteria & 2. options for password:
-        Criteria: 
+2. After clicking the user will be prompted with questions 
+regarding a. criteria & b. options for password:
+ Criteria: 
             1. Must be between 8 and 128 characters long
             2. Must choose at least 1 of the character options:
                 - numbers 
@@ -33,12 +33,12 @@ regarding 1. criteria & 2. options for password:
                 - lower case letter 
                 - upper case letter 
                 - special character
-Upon answering the prompts the password will generate and appear in the box. 
+3. Upon answering the prompts the password will generate and appear in the box. 
 
 ## Requirements Met Thru the Following:
 
 Kept look of original website:
-![OriginalSite](images/OriginalSite.PNG)
+![OriginalSite](images/OriginalSite.png)
 <img src="images\OriginalSite.PNG" alt="OriginalSite">
 
 Prompted user with questions to determine user choices:
@@ -56,3 +56,6 @@ Generated secure password for user:
 Edited by Mary Kathryn Holt; https://github.com/MaryKathryn0.
 Content provided by: https://github.com/the-Coding-Boot-Camp-at-UT/UTA-AUS-FSF-FT-09-2020-U-C/
 
+/Users/marykathryn/Desktop/Assignment3JavaScript/images/OriginalSite.png
+
+<img src=images/OriginalSite.png
