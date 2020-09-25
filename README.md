@@ -38,6 +38,7 @@ Upon answering the prompts the password will generate and appear in the box.
 ## Requirements Met Thru the Following:
 
 Kept look of original website:
+![OriginalSite](images/OriginalSite.PNG)
 <img src="images\OriginalSite.PNG" alt="OriginalSite">
 
 Prompted user with questions to determine user choices:
