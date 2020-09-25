@@ -2,6 +2,7 @@
 03 JavaScript: Password Generator
 
 ## Live Link
+
 https://marykathryn0.github.io/Assignment3JavaScript/
 
 ## Goal
@@ -13,10 +14,10 @@ criteria ensuring strong security.
 
 ## Scope of Work
 
-    User will click the button to generate a password
+User will click the button to generate a password
 
-    After clicking the user will be prompted with questions 
-    regarding 1. criteria & 2. options for password:
+After clicking the user will be prompted with questions 
+regarding 1. criteria & 2. options for password:
         Criteria: 
             1. Must be between 8 and 128 characters long
             2. Must choose at least 1 of the character options:
@@ -32,21 +33,22 @@ criteria ensuring strong security.
                 - lower case letter 
                 - upper case letter 
                 - special character
-    Upon answering the prompts the password will generate and appear in the box. 
+Upon answering the prompts the password will generate and appear in the box. 
 
 ## Requirements Met Thru the Following:
-    Kept look of original website:
-<img src="images/OriginalSite.PNG" alt="OriginalSite">
 
-    Prompted user with questions to determine user choices:
-<img src="images/Questions.PNG" alt="Questions">
-<img src="images/CriteriaLength.PNG" alt="CriteriaLength">
+Kept look of original website:
+<img src="images\OriginalSite.PNG" alt="OriginalSite">
 
-    Ensured that criteria to ensure strong password was met:
-<img src="images/EnsuredCriteria.PNG" alt="EnsuredCriteria">
+Prompted user with questions to determine user choices:
+<img src="images\Questions.PNG" alt="Questions">
+<img src="images\CriteriaLength.PNG" alt="CriteriaLength">
 
-    Generated secure password for user:
-<img src="images/PWGeneratedpng.PNG" alt="PasswordGenerated">
+Ensured that criteria to ensure strong password was met:
+<img src="images\EnsuredCriteria.PNG" alt="EnsuredCriteria">
+
+Generated secure password for user:
+<img src="images\PWGeneratedpng.PNG" alt="PasswordGenerated">
 
 ## Credits
 
