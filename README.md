@@ -18,14 +18,14 @@ criteria ensuring strong security.
 
 2. After clicking the user will be prompted with questions 
 regarding a. criteria & b. options for password:
-Criteria: 
+-**Criteria:** 
 - Must be between 8 and 128 characters long
 - Must choose at least 1 of the character options:
   - numbers 
   - lower case letter 
   - upper case letter 
   - and/or special character
-Options:
+-**Options:**
 - User chooses length of PW within the criteria
 - User can choose which/some/or all of the PW character choices:
     (must include at least 1 option per criteria above)
