@@ -18,21 +18,22 @@ criteria ensuring strong security.
 
 2. After clicking the user will be prompted with questions 
 regarding a. criteria & b. options for password:
- Criteria: 
-  1. Must be between 8 and 128 characters long
-  2. Must choose at least 1 of the character options:
-    - numbers 
-    - lower case letter 
-    - upper case letter 
-    - and/or special character
- Options:
-  1. User chooses length of PW within the criteria
-  2. User can choose which/some/or all of the PW character choices:
+Criteria: 
+- Must be between 8 and 128 characters long
+- Must choose at least 1 of the character options:
+  - numbers 
+  - lower case letter 
+  - upper case letter 
+  - and/or special character
+Options:
+- User chooses length of PW within the criteria
+- User can choose which/some/or all of the PW character choices:
     (must include at least 1 option per criteria above)
-    - numbers 
-    - lower case letter 
-    - upper case letter 
-    - special character
+  - numbers 
+  - lower case letter 
+  - upper case letter 
+  - special character
+
 3. Upon answering the prompts the password will generate and appear in the box. 
 
 ## Requirements Met Thru the Following:
@@ -47,13 +48,13 @@ regarding a. criteria & b. options for password:
 ![CriteriaLength](images/CriteriaLength.png)
 
 
-3. Ensured that criteria to ensure strong password was met:
+3. Ensured that criteria to ensure strong password was met:         
 ![EnsuredCriteria](images/EnsuredCriteria.png)
 
 
 4. Generated secure password for user:
 ![OriginalSite](images/OriginalSite.png)
-<img src="images\PWGeneratedpng.PNG" alt="PasswordGenerated">
+
 
 ## Credits
 
