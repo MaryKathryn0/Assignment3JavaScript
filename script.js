@@ -48,7 +48,7 @@ function generatePassword() {
   
   
   for (var i = 0; i < passwordOptions.length; i++) {
-    var newPassword = possibleCombo[Math.floor(Math.random()* possibleCombo.length)]
+    var newPassword = possibleCombo[Math.floor(Math.random() * possibleCombo.length)]
     finalPassword.push(newPassword); 
   }
   console.log(finalPassword)
